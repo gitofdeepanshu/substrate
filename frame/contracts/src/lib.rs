@@ -92,6 +92,7 @@ mod migration;
 mod schedule;
 mod storage;
 mod wasm;
+mod impl_nonfungibles;
 
 pub mod chain_extension;
 pub mod weights;
